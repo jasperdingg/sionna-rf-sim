@@ -1,0 +1,5 @@
+sionna-rt==2.0.1
+jupyterlab
+ipykernel
+matplotlib
+numpy
